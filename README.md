@@ -1,8 +1,6 @@
-<h1>One World by Night \
-Web Transition Strategy</h1>
-
-
-<h1> Estratégia de Transição Web</h1>
+<h1>One World by Night<br />
+Web Transition Strategy<br />
+Estratégia de Transição Web</h1>
 
 <h1>Preamble</h1>
 
