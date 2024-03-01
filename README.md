@@ -248,13 +248,7 @@ The architecture diagram is not just a visual representation but a strategic doc
 <h2>Web Architecture Diagram</h2>
 
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
+<img src="https://github.com/owbnwebcoord/web_transition/blob/main/www.owbn.net.png">
 
 <h1>User Experience</h1>
 
